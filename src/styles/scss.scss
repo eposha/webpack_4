@@ -1,0 +1,12 @@
+$border: 1px solid red;
+
+.card {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+  border: $border;
+  h2 {
+    color: darkcyan;
+    text-align: center;
+  }
+}
